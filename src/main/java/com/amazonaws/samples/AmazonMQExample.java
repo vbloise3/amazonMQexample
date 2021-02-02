@@ -11,7 +11,7 @@ public class AmazonMQExample {
 // Also open port 61617 in the security group associated with your broker.
 // And change the user name and password to the values you used when you created your broker
 private final static String WIRE_LEVEL_ENDPOINT 
-        = "ssl://b-e0885cfc-d04b-4dbe-a450-86a30444a0ca-1.mq.us-east-1.amazonaws.com:61617";
+        = "ssl://b-c45ce31b-dce3-4887-9217-b3cf64428dda-1.mq.us-east-1.amazonaws.com:61617";
 private final static String ACTIVE_MQ_USERNAME = "admin";
 private final static String ACTIVE_MQ_PASSWORD = "admin1234567";
 private final static String MESSAGE_QUEUE = "ArchitectAssociateQueue";
